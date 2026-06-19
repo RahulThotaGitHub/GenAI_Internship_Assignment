@@ -1,3 +1,5 @@
+Data: In data folder
+
 Steps to run this pipeline:
 
 Step 1> Create environment [Download relevant packages and set them up]
@@ -6,9 +8,14 @@ Step 2> Api key is asked when running the program, this make it safe and easy fo
 
 Step 3> After downloading relevant packages and this repository , Run python main.py.
 
+or 
+
+You can also run code in notebook , its self contained.
+
 
 This will run the program and provide us with a rag_chunk.jsonl file, which has the ouput for all chunks in following manner-
 
+OUTPUT FILE: rag_chunks.jsonl
 
 OUTPUT FORMAT:
 
