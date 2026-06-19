@@ -76,18 +76,10 @@ def main():
     print(chunks[0])
 
 
-
-    
-
-    
-
     enriched_chunks = enrich_all_chunks(chunks, save_path="rag_chunks.jsonl")
     #enriched_chunk = enrich_chunk(chunks[1])
     #print(enriched_chunk)
     #print(chunks[1])
-
-
-
 
 
 if __name__ == "__main__":
