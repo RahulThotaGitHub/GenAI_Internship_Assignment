@@ -26,23 +26,23 @@ OUTPUT FORMAT:
   
   "question_type": "descriptive",
     
-  "question_te": "...",       #prasna in telugu 
+  "question_te": "...",     ------->  #prasna in telugu 
   
-  "answer_te": "...",         #javabu in telugu
+  "answer_te": "...",       ------->   #javabu in telugu
     
-  "question_en": "...",      #contains the question translation
+  "question_en": "...",    ------->   #contains the question translation
   
-  "answer_en": "...",        #conatins the answer translation
+  "answer_en": "...",       ------->  #contains the answer translation
   
-  "options_te": [ "వైవశవిత మనువును", "చత్రుముఖ బ్రహ్మను", "మరీచిని","నారద మహర్షిని"],          #available only for questions with options
+  "options_te": [ "వైవశవిత మనువును", "చత్రుముఖ బ్రహ్మను", "మరీచిని","నారద మహర్షిని"],      ------->     #available only for questions with options
   
-  "correct_option": "2", #To get the correct answer[Given in seperate javabulu coloumn]     for mcq type questions
+  "correct_option": "2", #To get the correct answer[Given in seperate javabulu coloumn]   ------->   for mcq type questions
   
-  "correct_answer_te": "చత్రుముఖ బ్రహ్మను", #Correct answer[Given in seperate javabulu coloumn]     for 1 word answer type question
+  "correct_answer_te": "చత్రుముఖ బ్రహ్మను", #Correct answer[Given in seperate javabulu coloumn]   ------->   for 1 word answer type question
   
-  "entities": [...],    # For indepth understanding
+  "entities": [...],  ------->   # For indepth understanding
   
-  "relations": [...],   # Finding relationships between things
+  "relations": [...], ------->   # Finding relationships between things
   
   "metadata": {
   
