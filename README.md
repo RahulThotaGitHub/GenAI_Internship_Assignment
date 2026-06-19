@@ -61,6 +61,7 @@ OUTPUT FORMAT:
   
 }
 
+NOTE: Each chunk has one question and answer.
 
 This format is chosen because there is not much relationship between the chunks, even if a person ask question regarding page numbers, topics , vague questions, the model will not have any problems with tackling those questions. It can easily understand the relationship between each question with entities and relation coloumn.
 
